@@ -5,14 +5,14 @@
 **Type:** Lesson week
 
 
-## Demo video: https://drive.google.com/file/d/1uX1cZee5RPDTLf5IMBr_SGMSo80Ft9MX/view?usp=sharing
+## Demo video: 
 
 Paste a link to a short video of you running this assignment (tool + code + run).
 Work without a working video link is incomplete.
 
 The video is half the grade. Show the run, then explain why `printStudent` takes `const Student&` and how `roster[i].gpa` picks one field.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1B1WQNDcoW6cCk_eT6X_BHokxspRkBTO1/view?usp=sharing
 
 ## Scenario
 
